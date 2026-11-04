@@ -1,8 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-<channel>
-<title>MJZ Tech Desk updates</title>
-<link>https://mjz-wireless.github.io/mjz-tech-desk/appcast.xml</link>
-<description>Updates for MJZ Tech Desk</description>
-<language>en</language>
-</channel>
+  <channel>
+    <title>MJZ Tech Desk updates</title>
+    <link>https://mjz-wireless.github.io/mjz-tech-desk/appcast.xml</link>
+    <description>Updates for MJZ Tech Desk</description>
+    <language>en</language>
+    <item>
+      <title>Version 1.2.0</title>
+      <pubDate>Wed, 04 Nov 2026 17:49:06 GMT</pubDate>
+      <sparkle:version>1.2.0.0</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <description><![CDATA[Adds Work in folder mode.]]></description>
+      <enclosure url="https://github.com/mjz-wireless/mjz-tech-desk/releases/download/v1.2.0/MJZ-Tech-Desk-Setup.exe" length="4563664" type="application/octet-stream" sparkle:os="windows-x64" sparkle:edSignature="n3WiFaZurZwJ2YZE5piTmMH08yN2E1n21YnsMQURjUn4BjrYyQxqxoaKCB/CBhzqfd4gYlsPHEatpAGuLhZZCA==" sparkle:installerArguments="/SP- /SILENT /NORESTART /MJZUPDATE=1" />
+    </item>
+  </channel>
 </rss>
