@@ -1,1 +1,8 @@
-
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>MJZ Tech Desk updates</title>
+<link>https://mjz-wireless.github.io/mjz-tech-desk/appcast.xml</link>
+<description>Updates for MJZ Tech Desk</description>
+<language>en</language>
+</channel>
+</rss>
